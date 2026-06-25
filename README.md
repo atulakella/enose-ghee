@@ -56,7 +56,7 @@ View the public Edge Impulse project: https://studio.edgeimpulse.com/public/5815
 groove.ino    ← sensor readout + TFT display (data collection sketch)
 ```
 
-The trained model and dataset live in Edge Impulse (link above). The paper is a draft and not yet published.
+The trained model and dataset live in Edge Impulse (link above).
 
 ---
 
