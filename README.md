@@ -20,7 +20,6 @@ A 4-channel metal oxide gas sensor (Seeed Grove Multichannel Gas Sensor V2) capt
 
 - Arduino Mega 2560
 - Seeed Grove Multichannel Gas Sensor V2 (GM102B, GM302B, GM502B, GM702B)
-- TFT display (live sensor readout during collection)
 
 ---
 
